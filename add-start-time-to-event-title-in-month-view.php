@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: The Events Calendar — [Snippet Title, *Same as the snippet post article title*]
- * Description: [description]
+ * Plugin Name: The Events Calendar — Add Start Time to Event Title in Month View
+ * Description: Adds an event's start time (if it has one) its Month View title.
  * Version: 1.0.0
  * Author: Modern Tribe, Inc.
  * Author URI: http://m.tri.be/1x
